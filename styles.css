@@ -46,6 +46,9 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+header{
+    background-color: #b7dfe8;
+}
 p {
     margin-top: 100px;
     margin-bottom: 0px;
