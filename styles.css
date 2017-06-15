@@ -84,7 +84,21 @@ ul {
 footer p{
     font-size:75%;
     padding: 5px;
+    margin-top: 0px;
+    margin-bottom: 0px;
 }
 #The-Hives{
     background-color: grey;
+}
+#Streetlight{
+
+}
+#RBFandAF{
+
+}
+#In-the-Whale{
+
+}
+#Flogging-Molly{
+    background-color: darkslategrey;
 }
